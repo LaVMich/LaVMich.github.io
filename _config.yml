@@ -1,5 +1,5 @@
-title: Title of your CV site
-profile_img: /assets/img/profile.webp
+title: MLV Resume
+profile_img: /assets/img/m_profile.webp
 icon_img: /assets/img/icon.webp
 
 name: "Michael La Vance"
@@ -8,7 +8,7 @@ job: "Data Analyst"
 phone_number: 858-231-7357
 address: Poway, California
 email: michael.lavance2018@gmail.com
-linkedin_username: linkedin
+linkedin_username: Michael-La-Vance
 github_username: LaVMich
 #instagram_username: instagram
 #twitter_username: twitter
