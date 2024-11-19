@@ -9,7 +9,7 @@ contents:
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
-      ![devicon](assets\img\icons\r_shiny_logo.svg)
+      ![devicon]("~\assets\img\icons\r_shiny_logo.svg")
     "
   - title: Frameworks
     description: "
